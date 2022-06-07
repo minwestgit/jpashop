@@ -1,4 +1,4 @@
-가package jpabook.jpashop.service;
+package jpabook.jpashop.service;
 
 import jpabook.jpashop.domain.Item.Book;
 import org.junit.Test;
